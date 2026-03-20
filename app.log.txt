@@ -1,0 +1,2 @@
+2026-02-28 22:03:21,520 [ERROR] ip_lookup - Error querying IP geolocation API: HTTPConnectionPool(host='ip-api.com', port=80): Read timed out. (read timeout=5.0)
+2026-02-28 22:09:31,211 [INFO] ip_lookup - Geolocation lookup failed: private range
